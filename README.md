@@ -48,5 +48,5 @@ Flask, Plotly (Data Visualization and Web Application)
 Many thanks to Figure-8 for making this available to Udacity for training purposes. 
 Special thanks to udacity for the training. 
 
-## Git hub Link : https://github.com/Madhu062422/Udacity_Assignment2_DisasterResponsePipeline_DatascienceNanodegree/tree/master
+## Git hub Link : https://github.com/Madhu062422/DisasterResponsePipeline_DS_NanoDegree_Udacity/tree/master
 
